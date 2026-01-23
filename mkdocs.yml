@@ -70,6 +70,8 @@ nav:
   - Getting Started:
       - Logfire: index.md
       - Why Logfire?: why.md
+      - FAQ: faq.md
+      - AI & LLM Observability: ai-observability.md
       - Concepts: concepts.md
       - Get Help: help.md
       - Onboarding Checklist:
@@ -92,6 +94,7 @@ nav:
   - Understanding your Usage: logfire-costs.md
   - How To - Guides:
       - Create Write Tokens: how-to-guides/create-write-tokens.md
+      - Use API Keys: how-to-guides/use-api-keys.md
       - Use different environments: how-to-guides/environments.md
       - Convert to Organization: how-to-guides/convert-to-organization.md
       - Write Dashboard Queries: how-to-guides/write-dashboard-queries.md
@@ -167,6 +170,8 @@ nav:
           - Print: integrations/print.md
           - Structlog: integrations/structlog.md
           - Loguru: integrations/loguru.md
+      - Testing:
+          - Pytest: integrations/pytest.md
       - Pydantic: integrations/pydantic.md
       - System Metrics: integrations/system-metrics.md
       - Stripe: integrations/stripe.md
